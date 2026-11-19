@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+  <title>Driftwood Supply Co.</title>
+  <link>https://jericabalos03-byte.github.io/</link>
+  <description>Product feed</description>
+  <item>
+    <g:id>DW-001</g:id>
+    <title>Stoneware Coffee Mug 350ml</title>
+    <description>Hand-glazed stoneware mug holding 350ml. Dishwasher and microwave safe. Each piece has slight variations in glaze.</description>
+    <link>https://jericabalos03-byte.github.io/products/ceramic-mug.html</link>
+    <g:image_link>https://jericabalos03-byte.github.io/images/ceramic-mug.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>24.00 SGD</g:price>
+    <g:condition>new</g:condition>
+    <g:brand>Driftwood</g:brand>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Tableware &gt; Drinkware &gt; Mugs</g:google_product_category>
+    <g:shipping><g:country>SG</g:country><g:price>5.00 SGD</g:price></g:shipping>
+  </item>
+  <item>
+    <g:id>DW-002</g:id>
+    <title>Natural Linen Tote Bag</title>
+    <description>Sturdy washed-linen tote, 40 x 38 cm, with an inner pocket and 60 cm handles. Machine washable at 30°C.</description>
+    <link>https://jericabalos03-byte.github.io/products/linen-tote.html</link>
+    <g:image_link>https://jericabalos03-byte.github.io/images/linen-tote.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>32.00 SGD</g:price>
+    <g:condition>new</g:condition>
+    <g:brand>Driftwood</g:brand>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:google_product_category>Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Handbags &gt; Tote Handbags</g:google_product_category>
+    <g:shipping><g:country>SG</g:country><g:price>5.00 SGD</g:price></g:shipping>
+  </item>
+  <item>
+    <g:id>DW-003</g:id>
+    <title>Sea Salt Soy Candle 200g</title>
+    <description>Soy wax candle with a cotton wick and a sea-salt and cedar scent. Approximately 40 hours burn time.</description>
+    <link>https://jericabalos03-byte.github.io/products/soy-candle.html</link>
+    <g:image_link>https://jericabalos03-byte.github.io/images/soy-candle.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>28.00 SGD</g:price>
+    <g:condition>new</g:condition>
+    <g:brand>Driftwood</g:brand>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:google_product_category>Home &amp; Garden &gt; Decor &gt; Home Fragrances &gt; Candles</g:google_product_category>
+    <g:shipping><g:country>SG</g:country><g:price>5.00 SGD</g:price></g:shipping>
+  </item>
+  <item>
+    <g:id>DW-004</g:id>
+    <title>Teak Serving Board</title>
+    <description>Solid teak serving board, 45 x 20 cm, finished with food-safe oil. Hand wash only.</description>
+    <link>https://jericabalos03-byte.github.io/products/teak-board.html</link>
+    <g:image_link>https://jericabalos03-byte.github.io/images/teak-board.jpg</g:image_link>
+    <g:availability>in_stock</g:availability>
+    <g:price>45.00 SGD</g:price>
+    <g:condition>new</g:condition>
+    <g:brand>Driftwood</g:brand>
+    <g:identifier_exists>no</g:identifier_exists>
+    <g:google_product_category>Home &amp; Garden &gt; Kitchen &amp; Dining &gt; Kitchen Tools &amp; Utensils &gt; Cutting Boards</g:google_product_category>
+    <g:shipping><g:country>SG</g:country><g:price>5.00 SGD</g:price></g:shipping>
+  </item>
+</channel>
+</rss>

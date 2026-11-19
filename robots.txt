@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jericabalos03-byte.github.io/sitemap.xml
